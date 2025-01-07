@@ -39,5 +39,9 @@
 
 ![image](https://github.com/user-attachments/assets/854957ea-70a1-41c9-90f3-ea4acefb5590)
 
+Тестирование приложения: 
 
-  
+Зайдем по ссылке /h2-console и заполним поля:
+
+![image](https://github.com/user-attachments/assets/2dbd81f9-1df8-4148-89a1-b2e949be1c8a)
+
