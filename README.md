@@ -45,3 +45,6 @@
 
 ![image](https://github.com/user-attachments/assets/2dbd81f9-1df8-4148-89a1-b2e949be1c8a)
 
+У нас все открылось: 
+![image](https://github.com/user-attachments/assets/8f6d5d68-9b79-433d-b4f3-0fc8a5bea043)
+
