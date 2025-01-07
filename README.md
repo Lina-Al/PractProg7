@@ -17,3 +17,4 @@
 Далее был установллен по умолчании JDK 
 
 ![image](https://github.com/user-attachments/assets/a89db033-558e-4d32-99e2-46bc00d55975)
+
