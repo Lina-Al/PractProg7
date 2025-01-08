@@ -18,6 +18,10 @@
 
 ![image](https://github.com/user-attachments/assets/a89db033-558e-4d32-99e2-46bc00d55975)
 
+Для удобсва также можно установить все пакеты через системные переменные: 
+![image](https://github.com/user-attachments/assets/c3869da5-81cd-45f8-a40e-925186e095bd)
+
+
 Настройка базы данных: Открываем файл  application.yml (до этого меняя расширение на yml) и добавленяем безопасность:
 
 ![image](https://github.com/user-attachments/assets/1a313b48-8de2-4b03-8b01-cb0e8596de5a)
